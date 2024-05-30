@@ -97,9 +97,6 @@ function Login() {
                                             id="exampleCheck2" />
                                         <label className="form-check-label inline-block text-gray-800" htmlFor="exampleCheck2">Remember me</label>
                                     </div>
-                                    <Link
-                                        to={"/forgotPassword"}
-                                    >Forgot Password</Link>
                                 </div>
                                 <div className="text-center lg:text-left">
                                     <button
